@@ -1,0 +1,15 @@
+{
+  "name": "modulo2",
+  "version": "1.0.0",
+  "description": "Como inicializar proyectos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "auditor": "npm audit && node app.js"
+  },
+  "author": "José Álvarez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
