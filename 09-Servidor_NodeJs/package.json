@@ -1,0 +1,11 @@
+{
+  "name": "modulo9",
+  "version": "1.0.0",
+  "description": "Servidor node.Js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Alvarez",
+  "license": "ISC"
+}
