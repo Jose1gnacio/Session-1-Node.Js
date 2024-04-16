@@ -1,6 +1,8 @@
- Aprendiendo Node.js desde cero
+# Session-1-Node.Js-essential
+ 
+![Node.js Logo](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Node.js Logo](url_de_la_imagen)
+Aprendiendo Node.js desde cero.
 
 Este repositorio contiene recursos y ejemplos de código para aprender Node.js desde cero. Incluye tutoriales, proyectos prácticos y enlaces útiles.
 
